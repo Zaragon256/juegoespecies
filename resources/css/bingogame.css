@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(255, 250, 238);
+}
+#gamemaster{
+    display: none;
+}
+#player{
+    display: none;
+}
+#controls{
+    display: block;
+}
+
+.cardrow{
+    /* border: 1px solid rgb(114, 156, 0); */
+    min-width: 550px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+.cardcol{
+    border: 3px solid rgb(255, 166, 0);
+    width: 100px;
+    height: 100px;
+    max-width: 10%;
+    display: inline-table;
+    display: -ms-inline-table;
+    display: -moz-inline-table;
+    margin: 2px;
+    vertical-align: top;
+    position: relative;
+}
+.cardname{
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.bingo{
+    display: block;
+    position: absolute;
+    bottom: 40%;
+    width: 100%; 
+}
+.checked{
+    background-color: rgb(82, 82, 82);
+}
+.checked-ex{
+    background-color: rgb(0, 0, 0);
+}
+.checked-ew{
+    background-color: rgb(128, 0, 128);
+}
+.checked-cr{
+    background-color: rgb(255, 0, 0);
+}
+.checked-en{
+    background-color: rgb(255, 166, 0);
+}
+.checked-vu{
+    background-color: rgb(255, 255, 0);
+}
+.checked-nt{
+    background-color: rgb(134, 223, 0);
+}
+.checked-lc{
+    background-color: rgb(0, 128, 0);
+}
+.checked-dd{
+    background-color: rgb(128, 128, 128);
+}
+
+.bingoball{
+    display: inline-block;
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border: 1px solid lightgray;
+    border-radius: 100%;
+    text-align: center;
+    vertical-align: bottom;
+}
+.bingoballtext{
+    display: block;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
