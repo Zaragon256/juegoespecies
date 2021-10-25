@@ -1,3 +1,29 @@
 .clickable{
     cursor: pointer;
 }
+.display-b{
+    display: block;
+}
+.not-display{
+    display: none;
+}
+.col{
+    display: -ms-inline-grid;
+    display: inline-grid;
+    display: -webkit-inline-grid;
+}
+.col-10{
+    width: 10%;
+}
+.col-25{
+    width: 25%;
+}
+.col-33{
+    width: 33%;
+}
+.col-50{
+    width: 50%;
+}
+.col-66{
+    width: 66%;
+}

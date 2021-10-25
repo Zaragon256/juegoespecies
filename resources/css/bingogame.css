@@ -22,7 +22,7 @@ body{
     border: 3px solid rgb(255, 166, 0);
     width: 100px;
     height: 100px;
-    max-width: 10%;
+    /* max-width: 10%; */
     display: inline-table;
     display: -ms-inline-table;
     display: -moz-inline-table;
@@ -86,4 +86,31 @@ body{
     bottom: 10px;
     width: 100%;
     text-align: center;
+}
+.simplecard{
+    width: 14rem;
+    height: 28rem;
+    display: inline-grid;
+    border-width: 2px;
+    border-color: rgb(46, 46, 46);
+    border: solid;
+    margin: 5px;
+    align-content: start;
+    justify-items: center;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 1rem;
+}
+.card-image{
+    width: 13rem;
+    height: 9rem;
+    background-size: cover;
+}
+.card-title{
+    padding: 0.6rem 0;
+    font-size: 1.2rem;
+}
+.card-text{
+    padding: 1rem 0 0 0;
 }

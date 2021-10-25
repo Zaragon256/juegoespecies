@@ -1,0 +1,23 @@
+.simplecard{
+    width: 7rem;
+    height: 14rem;
+    display: inline-grid;
+    border-width: 2px;
+    border-color: black;
+    border: solid;
+    margin: 5px;
+    align-content: start;
+    justify-items: center;
+    text-align: center;
+}
+.card-image{
+    width: 6.5rem;
+    height: 5rem;
+    background-size: cover;
+}
+.card-title{
+
+}
+.card-text{
+
+}

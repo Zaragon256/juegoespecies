@@ -1,5 +1,6 @@
 const species = [
     {
+      "dbnumber": 100,
       "iucncategory": "EX",
       "currentcategoryinrm": "EX = Extinta",
       "scientificname": "Tristagma leichtlinii",
@@ -11,8 +12,7 @@ const species = [
       "class": "Liliopsida",
       "haverecord": "MMA WORD",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-flor-de-la-virgen.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -28,36 +28,8 @@ const species = [
       "textcolor3": "#444444",
       "other": " "
     },
-    // {
-    //   "iucncategory": "EW",
-    //   "currentcategoryinrm": "EW= Extinta en estado silvestre",
-    //   "scientificname": "-",
-    //   "commonname": "-",
-    //   "cardname": "",
-    //   "endemictochile": "-",
-    //   "kingdom": "-",
-    //   "phylumdivition": "-",
-    //   "class": "-",
-    //   "haverecord": "-",
-    //   "description": "sample description text",
-    //   "image": "sample.jpg",
-    //   "dbnumber": 1,
-    //   "attack": 10,
-    //   "defence": 10,
-    //   "cost": 10,
-    //   "hitpoints": 100,
-    //   "text1": "text 1 sample",
-    //   "text2": "text 2 sample",
-    //   "text3": "text 3 sample",
-    //   "color1": "#cccccc",
-    //   "color2": "#bbbbbb",
-    //   "color3": "#aaaaaa",
-    //   "textcolor1": "#222222",
-    //   "textcolor2": "#333333",
-    //   "textcolor3": "#444444",
-    //   "other": " "
-    // },
     {
+      "dbnumber": 101,
       "iucncategory": "CR",
       "currentcategoryinrm": "CR = En peligro crítico",
       "scientificname": "Alsodes laevis",
@@ -69,8 +41,7 @@ const species = [
       "class": "Amphibia",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-sapo-de-pecho-espinoso-de-potrero.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -87,6 +58,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 102,
       "iucncategory": "CR",
       "currentcategoryinrm": "CR = En peligro crítico",
       "scientificname": "Euathlus condorito",
@@ -98,8 +70,7 @@ const species = [
       "class": "Arthropoda",
       "haverecord": "Arachnida",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-arana-pollito.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -116,6 +87,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 103,
       "iucncategory": "CR",
       "currentcategoryinrm": "CR = En peligro crítico",
       "scientificname": "Numenius borealis",
@@ -127,8 +99,7 @@ const species = [
       "class": "Aves",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-zarapito-boreal.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -145,6 +116,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 104,
       "iucncategory": "CR",
       "currentcategoryinrm": "CR = En peligro crítico",
       "scientificname": "Adiantum pearcei",
@@ -156,8 +128,7 @@ const species = [
       "class": "Filicopsida",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-palito-negro.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -174,6 +145,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 105,
       "iucncategory": "EN",
       "currentcategoryinrm": "EN = En Peligro",
       "scientificname": "Nematogenys inermis",
@@ -185,8 +157,7 @@ const species = [
       "class": "Chordata",
       "haverecord": "Actinopterygii",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-bagre-grande.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -203,6 +174,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 106,
       "iucncategory": "EN",
       "currentcategoryinrm": "EN = En Peligro",
       "scientificname": "Nycticryphes semicollaris",
@@ -214,8 +186,7 @@ const species = [
       "class": "Chordata",
       "haverecord": "Aves",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-becacina-pintada.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -232,6 +203,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 107,
       "iucncategory": "EN",
       "currentcategoryinrm": "EN = En Peligro",
       "scientificname": "Mordacia lapicida",
@@ -243,8 +215,7 @@ const species = [
       "class": "Animalia",
       "haverecord": "Chordata",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-lamprea-de-agua-dulce.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -261,19 +232,19 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 108,
       "iucncategory": "EN",
       "currentcategoryinrm": "EN = En Peligro",
       "scientificname": "Bombus dahlbomii",
-      "commonname": "Abejorro",
+      "commonname": "Abejorro,Duillin (mapudungún), Don Basilio, Abejorro gigante de La Patagonia, Moscardón, Diwmeñ (mapudungún)",
       "cardname": "Abejorro colorado",
-      "endemictochile": "Moscardón",
-      "kingdom": "Duillin (mapudungún)",
-      "phylumdivition": "Diwmeñ (mapudungún)",
-      "class": "Abejorro gigante de La Patagonia",
-      "haverecord": "Don Basilio",
+      "endemictochile": "",
+      "kingdom": "",
+      "phylumdivition": "",
+      "class": "",
+      "haverecord": "",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-abejorro-colorado.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -290,6 +261,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 109,
       "iucncategory": "EN",
       "currentcategoryinrm": "EN = En Peligro",
       "scientificname": "Aegla laevis",
@@ -301,8 +273,7 @@ const species = [
       "class": "Animalia",
       "haverecord": "Arthropoda",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-pancora.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -319,6 +290,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 110,
       "iucncategory": "EN",
       "currentcategoryinrm": "EN = En Peligro",
       "scientificname": "Pristidactylus valeriae",
@@ -330,8 +302,7 @@ const species = [
       "class": "Reptilia",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-grunidor-de-valeria.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -348,19 +319,19 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 111,
       "iucncategory": "EN",
       "currentcategoryinrm": "EN = En Peligro",
       "scientificname": "Cyttaria berteroi",
-      "commonname": "Pinatra",
-      "cardname": "Pina",
-      "endemictochile": "Piña",
-      "kingdom": "Curacucha",
-      "phylumdivition": "Curacucha",
-      "class": "NO",
-      "haverecord": "Fungi",
+      "commonname": "Pinatra, Pina, Piña, Curacucha",
+      "cardname": "Curacucha",
+      "endemictochile": "NO",
+      "kingdom": "Fungi",
+      "phylumdivition": "Ascomycota",
+      "class": "Leotiomycetes",
+      "haverecord": "",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-curacucha.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -377,6 +348,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 112,
       "iucncategory": "EN",
       "currentcategoryinrm": "EN = En Peligro",
       "scientificname": "Tecophilaea cyanocrocus",
@@ -388,8 +360,7 @@ const species = [
       "class": "Liliopsida",
       "haverecord": "No",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-azulillo.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -406,6 +377,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 113,
       "iucncategory": "EN",
       "currentcategoryinrm": "EN = En Peligro",
       "scientificname": "Avellanita bustillosii",
@@ -417,8 +389,7 @@ const species = [
       "class": "Magnoliopsida",
       "haverecord": "MMA WORD",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-avellanita.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -435,6 +406,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 114,
       "iucncategory": "VU",
       "currentcategoryinrm": "VU = Vulnerable",
       "scientificname": "Galaxias maculatus",
@@ -446,8 +418,7 @@ const species = [
       "class": "Actinopterygii",
       "haverecord": "MMA WORD PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-puye.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -464,6 +435,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 115,
       "iucncategory": "VU",
       "currentcategoryinrm": "VU = Vulnerable",
       "scientificname": "Calyptocephalella gayi",
@@ -475,8 +447,7 @@ const species = [
       "class": "Amphibia",
       "haverecord": "No",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-rana-chilena.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -493,6 +464,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 116,
       "iucncategory": "VU",
       "currentcategoryinrm": "VU = Vulnerable",
       "scientificname": "Cyanoliseus patagonus",
@@ -504,8 +476,7 @@ const species = [
       "class": "Aves",
       "haverecord": "MMA WORD",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-tricahue.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -522,6 +493,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 117,
       "iucncategory": "VU",
       "currentcategoryinrm": "VU = Vulnerable",
       "scientificname": "Copestylum nigripes",
@@ -533,8 +505,7 @@ const species = [
       "class": "Insecta",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-mosco-azul-de-cara-roja.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -551,6 +522,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 118,
       "iucncategory": "VU",
       "currentcategoryinrm": "VU = Vulnerable",
       "scientificname": "Lama guanicoe",
@@ -562,8 +534,7 @@ const species = [
       "class": "Mammalia",
       "haverecord": "MMA WORD",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-guanaco.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -580,6 +551,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 119,
       "iucncategory": "VU",
       "currentcategoryinrm": "VU = Vulnerable",
       "scientificname": "Leopardus guigna",
@@ -591,8 +563,7 @@ const species = [
       "class": "Mammalia",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-gato-guina.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -609,6 +580,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 120,
       "iucncategory": "VU",
       "currentcategoryinrm": "VU = Vulnerable",
       "scientificname": "Lycalopex culpaeus",
@@ -620,8 +592,7 @@ const species = [
       "class": "Mammalia",
       "haverecord": "No",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-zorro-culpeo.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -638,6 +609,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 121,
       "iucncategory": "VU",
       "currentcategoryinrm": "VU = Vulnerable",
       "scientificname": "Liolaemus gravenhorsti",
@@ -649,8 +621,7 @@ const species = [
       "class": "Reptilia",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-lagartija-de-gravenhorst.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -667,19 +638,19 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 122,
       "iucncategory": "VU",
       "currentcategoryinrm": "VU = Vulnerable",
       "scientificname": "Austrocedrus chilensis",
-      "commonname": "Ciprés de Cordillera",
-      "cardname": "Ciprés",
-      "endemictochile": "Len",
-      "kingdom": "Lahuán",
-      "phylumdivition": "Ciprés de Cordillera",
-      "class": "NO",
-      "haverecord": "Plantae",
+      "commonname": "Ciprés de Cordillera, Ciprés, Len, Lahuán",
+      "cardname": "Ciprés de Cordillera",
+      "endemictochile": "NO",
+      "kingdom": "Plantae",
+      "phylumdivition": "",
+      "class": "",
+      "haverecord": "",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-cipres-de-cordillera.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -696,6 +667,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 123,
       "iucncategory": "VU",
       "currentcategoryinrm": "VU = Vulnerable",
       "scientificname": "Aextoxicon punctatum",
@@ -707,8 +679,7 @@ const species = [
       "class": "Olivillo",
       "haverecord": "NO",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-olivillo.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -725,6 +696,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 124,
       "iucncategory": "VU",
       "currentcategoryinrm": "VU = Vulnerable",
       "scientificname": "Jubaea chilensis",
@@ -736,8 +708,7 @@ const species = [
       "class": "Liliopsida",
       "haverecord": "MMA PDF x2",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-palma-chilena.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -754,6 +725,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 125,
       "iucncategory": "VU",
       "currentcategoryinrm": "VU = Vulnerable",
       "scientificname": "Persea lingue",
@@ -765,8 +737,7 @@ const species = [
       "class": "Magnoliopsida",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-lingue.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -783,6 +754,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 126,
       "iucncategory": "NT",
       "currentcategoryinrm": "NT = Casi amenazada",
       "scientificname": "Strix rufipes",
@@ -794,8 +766,7 @@ const species = [
       "class": "Aves",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-concon.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -812,6 +783,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 127,
       "iucncategory": "NT",
       "currentcategoryinrm": "NT = Casi amenazada",
       "scientificname": "Castnia eudesmia",
@@ -823,8 +795,7 @@ const species = [
       "class": "Insecta",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-mariposa-del-chagual.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -841,6 +812,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 128,
       "iucncategory": "NT",
       "currentcategoryinrm": "NT = Casi amenazada",
       "scientificname": "Puma concolor",
@@ -852,8 +824,7 @@ const species = [
       "class": "NO",
       "haverecord": "Animalia",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-puma.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -870,6 +841,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 129,
       "iucncategory": "NT",
       "currentcategoryinrm": "NT = Casi amenazada",
       "scientificname": "Callopistes maculatus",
@@ -881,8 +853,7 @@ const species = [
       "class": "Reptilia",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-iguana-chilena.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -899,6 +870,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 130,
       "iucncategory": "NT",
       "currentcategoryinrm": "NT = Casi amenazada",
       "scientificname": "Caloplaca tucumanensis",
@@ -910,8 +882,7 @@ const species = [
       "class": "Lecanoromycetes",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-liquen.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -928,6 +899,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 131,
       "iucncategory": "NT",
       "currentcategoryinrm": "NT = Casi amenazada",
       "scientificname": "Costesia macrocarpa",
@@ -939,8 +911,7 @@ const species = [
       "class": "Bryopsida",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-musgo-de-costes.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -957,6 +928,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 132,
       "iucncategory": "NT",
       "currentcategoryinrm": "NT = Casi amenazada",
       "scientificname": "Pellaea myrtillifolia",
@@ -968,8 +940,7 @@ const species = [
       "class": "Filicopsida",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-lendo-del-cerro.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -986,6 +957,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 133,
       "iucncategory": "NT",
       "currentcategoryinrm": "NT = Casi amenazada",
       "scientificname": "Kageneckia angustifolia",
@@ -997,8 +969,7 @@ const species = [
       "class": "Magnoliopsida",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-frangel.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -1015,6 +986,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 134,
       "iucncategory": "LC",
       "currentcategoryinrm": "LC = Preocupación menor",
       "scientificname": "Acanthinodera cumingii",
@@ -1026,8 +998,7 @@ const species = [
       "class": "Madre de la Culebra",
       "haverecord": "SI",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-madre-de-la-culebra.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -1044,6 +1015,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 135,
       "iucncategory": "LC",
       "currentcategoryinrm": "LC = Preocupación menor",
       "scientificname": "Parastacus pugnax",
@@ -1055,8 +1027,7 @@ const species = [
       "class": "Animalia",
       "haverecord": "Arthropoda",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-camaron-excavador.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -1073,6 +1044,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 136,
       "iucncategory": "LC",
       "currentcategoryinrm": "LC = Preocupación menor",
       "scientificname": "Liolaemus tenuis",
@@ -1084,8 +1056,7 @@ const species = [
       "class": "Reptilia",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-lagartija-de-colores.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -1102,6 +1073,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 137,
       "iucncategory": "LC",
       "currentcategoryinrm": "LC = Preocupación menor",
       "scientificname": "Descolea antarctica",
@@ -1113,8 +1085,7 @@ const species = [
       "class": "Basidiomycetes",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-hongo.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -1131,6 +1102,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 138,
       "iucncategory": "LC",
       "currentcategoryinrm": "LC = Preocupación menor",
       "scientificname": "Eriosyce subgibbosa",
@@ -1142,8 +1114,7 @@ const species = [
       "class": "Magnoliopsida",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-quisquito.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -1160,6 +1131,7 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 139,
       "iucncategory": "DD",
       "currentcategoryinrm": "DD = Datos insuficientes",
       "scientificname": "Moluchia castanea",
@@ -1171,8 +1143,7 @@ const species = [
       "class": "Insecta",
       "haverecord": "MMA PDF",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-cucaracha.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -1189,19 +1160,19 @@ const species = [
       "other": " "
     },
     {
+      "dbnumber": 140,
       "iucncategory": "DD",
       "currentcategoryinrm": "DD = Datos insuficientes",
-      "scientificname": "",
-      "commonname": "Lasiurus cinereus",
+      "scientificname": "Lasiurus cinereus",
+      "commonname": "Murciélago Ceniciento",
       "cardname": "Murciélago Ceniciento",
-      "endemictochile": "Murciélago Ceniciento",
-      "kingdom": "NO",
-      "phylumdivition": "Animalia",
-      "class": "Chordata",
-      "haverecord": "Mammalia",
+      "endemictochile": "NO",
+      "kingdom": "Animalia",
+      "phylumdivition": "Chordata",
+      "class": "Mammalia",
+      "haverecord": "",
       "description": "sample description text",
-      "image": "sample.jpg",
-      "dbnumber": 1,
+      "image": "img-murcielago-ceniciento.jpg",
       "attack": 10,
       "defence": 10,
       "cost": 10,
@@ -1217,4 +1188,34 @@ const species = [
       "textcolor3": "#444444",
       "other": " "
     }
+        // ,{
+    //   "iucncategory": "EW",
+    //   "dbnumber": 141,
+    //   "currentcategoryinrm": "EW= Extinta en estado silvestre",
+    //   "scientificname": "-",
+    //   "commonname": "-",
+    //   "cardname": "",
+    //   "endemictochile": "-",
+    //   "kingdom": "-",
+    //   "phylumdivition": "-",
+    //   "class": "-",
+    //   "haverecord": "-",
+    //   "description": "sample description text",
+    //   "imagimg--.jpg",
+  
+    //   "attack": 10,
+    //   "defence": 10,
+    //   "cost": 10,
+    //   "hitpoints": 100,
+    //   "text1": "text 1 sample",
+    //   "text2": "text 2 sample",
+    //   "text3": "text 3 sample",
+    //   "color1": "#cccccc",
+    //   "color2": "#bbbbbb",
+    //   "color3": "#aaaaaa",
+    //   "textcolor1": "#222222",
+    //   "textcolor2": "#333333",
+    //   "textcolor3": "#444444",
+    //   "other": " "
+    // }
   ]

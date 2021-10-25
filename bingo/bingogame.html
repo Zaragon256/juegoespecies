@@ -14,18 +14,22 @@
     </header>
     <div>
         <div id="gamemaster">
-            <div id="bingocage"></div>
+            <div id="bingocage">
+                <canvas id="canvasBingoCage"></canvas>
+            </div>
             <div id="bingotable"></div>
             <div><button onclick="takeball();">Tomar un número</button></div>
             <div><button onclick="resetmenu();">volver al inicio</button></div>
         </div>
         <div id="player">
-            <div id="bingocard"></div>
+            <div id="bingocard" class="col col-66"></div>
+            <div id="infoview" class="col col-33">test</div>
             <div><button onclick="resetmenu();">volver al inicio</button></div>
         </div>
         <div id="controls">
             <div><button onclick="setplayer();">Jugador</button></div><div><button onclick="setgamemaster();">Maestro de Juego</button></div>   
         </div>
+        
     </div>
     <footer>
         <a href="../index.html">index</a>
